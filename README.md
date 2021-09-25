@@ -6,3 +6,5 @@
   - ```MONGODB_AUTH_USER```
   - ```MONGODB_AUTH_PASS```
   - ```MONGODB_AUTH_DB```
+
+- Original code snippet from https://stackoverflow.com/a/33603577 in this thread https://stackoverflow.com/questions/16226472/mongoose-autoreconnect-option
