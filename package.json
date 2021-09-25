@@ -1,0 +1,28 @@
+{
+  "name": "mongodb_connector",
+  "version": "1.0.0",
+  "description": "Node.js module for MongoDB connection with mongoose",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/index.test.js --bail --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigsupp/mongodb_connector.git"
+  },
+  "author": "bigsupp",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bigsupp/mongodb_connector/issues"
+  },
+  "homepage": "https://github.com/bigsupp/mongodb_connector#readme",
+  "dependencies": {
+    "mongoose": "^6.0.7"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
